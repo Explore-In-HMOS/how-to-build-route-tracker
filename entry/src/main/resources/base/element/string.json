@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Route Tracker"
+    },
+    {
+      "name": "map_network_permission",
+      "value": "Allow map tiles and Huawei map services to load."
+    },
+    {
+      "name": "map_network_info_permission",
+      "value": "Allow the app to inspect network status for map loading."
+    },
+    {
+      "name": "location_permission",
+      "value": "Allow the user location on map"
+    },
+    {
+      "name": "approximate_location_permission",
+      "value": "Allow the user location approximately on map"
+    },
+    {
+      "name": "location_permission_reason",
+      "value": "Location information is required for map features."
+    }
+  ]
+}

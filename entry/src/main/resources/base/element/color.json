@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "shell_background_top",
+      "value": "#17344A"
+    },
+    {
+      "name": "shell_background_bottom",
+      "value": "#08151F"
+    },
+    {
+      "name": "shell_ring_outer",
+      "value": "#2A9D8F"
+    },
+    {
+      "name": "shell_ring_inner",
+      "value": "#4FB3BF"
+    },
+    {
+      "name": "shell_chip_background",
+      "value": "#26465D"
+    },
+    {
+      "name": "shell_chip_text",
+      "value": "#D7F5FF"
+    },
+    {
+      "name": "shell_panel_background",
+      "value": "#143142"
+    },
+    {
+      "name": "shell_primary_text",
+      "value": "#F4FCFF"
+    },
+    {
+      "name": "shell_secondary_text",
+      "value": "#9CC0CE"
+    },
+    {
+      "name": "shell_map_surface",
+      "value": "#102838"
+    },
+    {
+      "name": "shell_map_border",
+      "value": "#315A72"
+    },
+    {
+      "name": "shell_route_dot_active",
+      "value": "#2A9D8F"
+    },
+    {
+      "name": "shell_route_dot_idle",
+      "value": "#3C5364"
+    },
+    {
+      "name": "shell_hint_text",
+      "value": "#7FA0AF"
+    },
+    {
+      "name": "shell_button_primary_bg",
+      "value": "#2A9D8F"
+    },
+    {
+      "name": "shell_button_primary_text",
+      "value": "#032229"
+    },
+    {
+      "name": "shell_button_secondary_bg",
+      "value": "#18394E"
+    },
+    {
+      "name": "shell_button_secondary_text",
+      "value": "#D8F4FB"
+    }
+  ]
+}

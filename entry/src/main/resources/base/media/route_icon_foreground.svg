@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="180" y="214" width="672" height="558" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="20"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0117647 0 0 0 0 0.101961 0 0 0 0 0.12549 0 0 0 0.35 0"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <path d="M274 714C322 679 369 623 425 599C462 583 493 661 539 647C600 628 625 489 684 445C718 419 747 388 776 330" stroke="#EAF8FC" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M274 714C322 679 369 623 425 599C462 583 493 661 539 647C600 628 625 489 684 445C718 419 747 388 776 330" stroke="#EAF8FC" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="274" cy="714" r="40" fill="white" stroke="#06262E" stroke-width="16"/>
+  <circle cx="425" cy="599" r="31" fill="#39C6B3" stroke="#06262E" stroke-width="14"/>
+  <circle cx="684" cy="445" r="31" fill="#39C6B3" stroke="#06262E" stroke-width="14"/>
+  <path d="M776 230C726.294 230 686 270.294 686 320C686 383.75 776 469 776 469C776 469 866 383.75 866 320C866 270.294 825.706 230 776 230Z" fill="#39C6B3"/>
+  <circle cx="776" cy="320" r="28" fill="#06262E"/>
+</svg>

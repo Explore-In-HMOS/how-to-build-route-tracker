@@ -1,0 +1,7 @@
+{
+  "layered-image":
+  {
+    "background" : "$media:route_icon_background",
+    "foreground" : "$media:route_icon_foreground"
+  }
+}

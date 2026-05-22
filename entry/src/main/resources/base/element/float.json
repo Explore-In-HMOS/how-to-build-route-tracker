@@ -1,0 +1,36 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "shell_chip_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "shell_metric_value_size",
+      "value": "16fp"
+    },
+    {
+      "name": "shell_metric_label_size",
+      "value": "10fp"
+    },
+    {
+      "name": "shell_title_size",
+      "value": "14fp"
+    },
+    {
+      "name": "shell_body_size",
+      "value": "10fp"
+    },
+    {
+      "name": "shell_hint_size",
+      "value": "9fp"
+    },
+    {
+      "name": "shell_button_font_size",
+      "value": "12fp"
+    }
+  ]
+}
