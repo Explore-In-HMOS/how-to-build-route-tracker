@@ -2,7 +2,7 @@
 
 # How to build Route Tracker
 
-This codelab showcases how to build a route tracker on wearable using HarmonyOS NEXT APIs.
+This codelab showcases how to build a route tracker on wearable using HarmonyOS APIs.
 It focuses solely on a basic use case, just tapping a marker to define end route location, showing current user location and start/clear route operation by providing poly line on map
 
 # Preview
@@ -58,5 +58,5 @@ entry/src/main/ets/
 - DevEco Studio Simulator
 
 # License
-**How to build a Route Tracker (HarmonyOS NEXT)** is distributed under the terms of the MIT License
+**How to build a Route Tracker (HarmonyOS)** is distributed under the terms of the MIT License
 See the [license](./LICENSE) for more information.
